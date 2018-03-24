@@ -1,0 +1,34 @@
+.page {
+  background: #4DABFF;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  font-size: 60px;
+  margin-left: -5px;
+  margin-bottom: 5px;
+}
+
+.image {
+  height: 150px;
+  padding-left: 10px;
+  padding-right: 10px;
+  vertical-align: middle;
+}
+
+.logos {
+  padding: 55px;
+}
+
+.container {
+  text-align: center;
+}
+
+.names {
+  list-style-position: inside;
+}
+
+.badass-header {
+  text-decoration: underline;
+}
