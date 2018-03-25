@@ -1,2 +1,2 @@
 # sharkhack
-This Repo was created as a visula demonstration for a Git workshop held at SharkHack 2018.
+This repo was created as a visual demonstration for a Git workshop held at SharkHack 2018.
